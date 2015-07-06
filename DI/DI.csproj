@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Connecter.cs" />
     <Compile Include="IConnecter.cs" />
+    <Compile Include="MockConnecter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

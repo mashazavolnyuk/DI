@@ -9,7 +9,7 @@ namespace DI
 {
     class Connecter : IConnecter
     {
-        private string url;
+        protected string url;
         public Connecter(string Url)
         {
             this.url = Url;
